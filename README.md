@@ -9,4 +9,6 @@
  10.25　progate Java学習コースⅢ　２回目  
  10.26　progate Java学習道場コース６まで/　ITパスポートp.54～p.79  
  10.27　progate Java学習道場コース完了 / ITパスポートp.80～p.97  
- 10.28　progate Java学習コースⅣ ~11　/ ITパスポートp.98～p.111 
+ 10.28　progate Java学習コースⅣ ~11　/ ITパスポートp.98～p.111  
+ 10.29　progate Java学習コースⅣ ~19
+ 
